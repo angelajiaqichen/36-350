@@ -1,2 +1,2 @@
 # 36-350
-Statistical Computing @ CMU
+Repository for Statistical Computing @ CMU
